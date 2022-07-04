@@ -1,5 +1,5 @@
 ﻿game_reviews
-1.0.0.0
+
 
 winexe
 C#
@@ -12,9 +12,9 @@ TRACE;DEBUG;NET;NET5_0;NETCOREAPP
 C:\Users\Adrian\source\repos\project\game_reviews\game_reviews\App.xaml
 21940794329
 
-6708798526
+4-303829845
 193-1891726104
 MainWindow.xaml;Window1.xaml;
 
-True
+False
 
